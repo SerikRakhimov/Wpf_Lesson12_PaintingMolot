@@ -1,0 +1,15 @@
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\bin\Debug\PaintingMolot.exe.config
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\bin\Debug\PaintingMolot.exe
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\bin\Debug\PaintingMolot.pdb
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\obj\Debug\PaintingMolot.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\obj\Debug\MainWindow.g.cs
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\obj\Debug\App.g.cs
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\obj\Debug\PaintingMolot_MarkupCompile.cache
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\obj\Debug\PaintingMolot_MarkupCompile.lref
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\obj\Debug\MainWindow.baml
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\obj\Debug\PaintingMolot.g.resources
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\obj\Debug\PaintingMolot.Properties.Resources.resources
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\obj\Debug\PaintingMolot.csproj.GenerateResource.cache
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\obj\Debug\PaintingMolot.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\obj\Debug\PaintingMolot.exe
+C:\Users\РахимовС\source\repos\PaintingMolot\PaintingMolot\obj\Debug\PaintingMolot.pdb
